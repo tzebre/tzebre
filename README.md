@@ -1,3 +1,3 @@
-GitHub de Theo MATHIEU etudiant en L3 Bism
+GitHub de Theo MATHIEU etudiant en Bioscience INSA Lyon
 
 ![](https://komarev.com/ghpvc/?username=tzebre)
