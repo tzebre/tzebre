@@ -1,3 +1,6 @@
-GitHub de Theo MATHIEU etudiant en Bioscience INSA Lyon
+GitHub de Theo MATHIEU 
+bYoRNA
+Ex-gourmey/parima 
+INSA Lyon bioinfos
 
 ![](https://komarev.com/ghpvc/?username=tzebre)
